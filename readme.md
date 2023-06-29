@@ -1,3 +1,3 @@
-# [Tyrrrz.me](https://tyrrrz.me)
+# [Downie.dev](downie.dev)
 
 My personal website.
